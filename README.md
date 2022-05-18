@@ -1,4 +1,4 @@
-### Hi there 👋 I am Piyush Bansal
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Piyush!]
 <!-- I am a pre-final year undergrad currently pursuing my Bachelors degree in Computer Science and Engineering from Jadavpur University. 
  
  👀 I’m interested in Competitive coding and Full-Stack Development
